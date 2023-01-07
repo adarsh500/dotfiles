@@ -1,0 +1,17 @@
+[user]
+	name = adarsh500
+	email = adarshsulegai50@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = /Users/adarshsulegai/.gitignore_global
+[alias]
+	amend = commit -s --amend
+  	cm = commit -s -m
+  	commit = commit -s
+	alias = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
