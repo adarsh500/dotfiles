@@ -1,0 +1,131 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.fontFamily": "JetBrains Mono",
+    "prettier.singleQuote": true,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.formatOnType": false,
+    "editor.suggest.showStatusBar": true,
+    "explorer.confirmDelete": false,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "emmet.showAbbreviationSuggestions": false,
+    "editor.formatOnPaste": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "zenMode.hideActivityBar": false,
+    "editor.fontLigatures": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "emmet.excludeLanguages": ["markdown"],
+    "files.associations": {
+      "\"*.extension\"": "\"js\""
+    },
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "files.exclude": {
+      "**/node_modules": false
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "npm.keybindingsChangedWarningShown": true,
+    "editor.fontWeight": "500",
+    "liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"],
+    "eslint.format.enable": true,
+    "eslint.workingDirectories": [{ "mode": "auto" }],
+    "files.autoSave": "afterDelay",
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.tabs.enabled": true,
+    "code-runner.runInTerminal": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.external.osxExec": "/Applications/iTerm.app",
+    "zenMode.hideStatusBar": false,
+    "workbench.editorAssociations": {
+      "*.db": "default"
+    },
+    "search.exclude": {
+      "**/.git": true,
+      "**/bower_components": true,
+      "**/tmp": true,
+      "**/node_modules": true
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "window.openFilesInNewWindow": "on",
+    "window.clickThroughInactive": false,
+    "window.closeWhenEmpty": true,
+    "editor.inlineSuggest.enabled": true,
+    "git.alwaysSignOff": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "always"
+    },
+    "eslint.validate": ["javascript"],
+    "editor.formatOnSave": true,
+    "editor.linkedEditing": true,
+    "security.workspace.trust.banner": "always",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.enabled": false,
+    "workbench.fontAliasing": "antialiased",
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.goToImplementation",
+    "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.goToImplementation",
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "terminal.integrated.fontWeight": "normal",
+    "workbench.sideBar.location": "right",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": true,
+      "markdown": true,
+      "yaml": true,
+      "go": false,
+      "typescript": true
+    },
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "editor.fontSize": 13.5,
+    "workbench.colorCustomizations": {
+      "notebook.editorBackground": "#00AA00"
+    },
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "workbench.editor.empty.hint": "hidden",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "nxConsole.showNodeVersionOnStartup": false,
+    "workbench.tree.enableStickyScroll": true,
+    "workbench.colorTheme": "GitHub Dark",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "extensions.ignoreRecommendations": true,
+    "supermaven.allowGitignore": true,
+    "git.autofetch": true,
+    "editor.minimap.enabled": false
+  }
